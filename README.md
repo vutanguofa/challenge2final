@@ -10,5 +10,5 @@ This is the final version of challenge 2. It includes all of module one's lesson
 
 ## Link to deployed application
 
-[Link to deployed application](https://github.com/vutanguofa/challenge1final/tree/master/.github/workflows)
+[Link to deployed application](https://vutanguofa.github.io/challenge2final/)
 
